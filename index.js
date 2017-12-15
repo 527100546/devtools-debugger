@@ -1,9 +1,7 @@
-/* eslint-disable spaced-comment */
 /*!
-	devtools-detect
-	Detect if DevTools is open
-	https://github.com/sindresorhus/devtools-detect
-	by Sindre Sorhus
+	devtools-debugger
+	https://github.com/527100546/devtools-debuggert.git
+	by galvin.lin
 	MIT License
 */
 (function () {
