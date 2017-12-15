@@ -3,6 +3,7 @@
 ## Install 安装
 
 ```
+	npm install devtools-debugger
 ```
 
 
