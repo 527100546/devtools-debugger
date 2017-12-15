@@ -12,9 +12,7 @@
 ```html
 <script src="node_modules/devtools-detect/index.js"></script>
 <script>
-	// check if it's open
 	console.log('工具栏打开状态', window.devtools.open);
-	// check it's orientation, null if not open
 	console.log('工具栏方向', window.devtools.orientation);
 
 	window.addEventListener('devtoolschange', function (e) {
